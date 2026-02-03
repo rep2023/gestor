@@ -1,0 +1,29 @@
+
+# Entorno virtual (muy importante)
+venv/
+.venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Variables de entorno (aquí van tus contraseñas o llaves de API)
+.env
+
+# Archivos de base de datos local (si usas SQLite)
+*.sqlite3
+*.db
+
+# IDEs
+.vscode/
+.idea/
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Variables de entorno
+.env
+
+# Si por alguna razón configuraste Pipenv para crear el entorno dentro del proyecto
+.venv/
